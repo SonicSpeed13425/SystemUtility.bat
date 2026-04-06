@@ -1,2 +1,9 @@
 # SystemUtility.bat
-a ANTIVIRUS that uses system utilities
+SystemUtility.bat is a batch file that acts like an antivirus
+Please note that this is not a replacement to antivirus software and your chances are better with actual antiviruses like malwarebytes and more
+
+## Features
+- MRT
+- sfc /scannow
+- block stun protocols
+- and more!!!
