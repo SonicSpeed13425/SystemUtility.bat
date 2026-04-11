@@ -8,9 +8,7 @@ set "RESET=%ESC%[0m"
 chcp 65001 >nul
 
 :Booting
-echo ⚠️ This is NOT a real antivirus.
-It uses built-in Windows tools and simple batch logic.
-For real malware removal, always use trusted security software.
+echo ⚠️ This is NOT a real antivirus. It uses built-in Windows tools and simple batch logic. For real malware removal, always use trusted security software.
 pause
 cls
 echo %ESC%[38;2;0;255;255mNeed protection?%RESET%
